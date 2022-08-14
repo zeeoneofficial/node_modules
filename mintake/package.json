@@ -1,0 +1,57 @@
+{
+  "_from": "mintake",
+  "_id": "mintake@1.0.2",
+  "_inBundle": false,
+  "_integrity": "sha512-iC5VgC156YqKj5um4jrEDR62tyiABsG9K4yeGQ4QBoknhubgi+6LqbxzJhsX5g+XWteA7AmhaTjCr5w9ZM46Vw==",
+  "_location": "/mintake",
+  "_phantomChildren": {
+    "side-channel": "1.0.4"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "mintake",
+    "name": "mintake",
+    "escapedName": "mintake",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/mintake/-/mintake-1.0.2.tgz",
+  "_shasum": "1c6170c36078f3d2b5249d7b8af50f1483988f50",
+  "_spec": "mintake",
+  "_where": "C:\\Users\\Administrator\\Downloads\\botwa",
+  "author": {
+    "name": "hmmmmm"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "cookie": "^0.4.1",
+    "form-data": "^4.0.0",
+    "moment-timezone": "^0.5.33",
+    "node-fetch": "^2.6.1",
+    "qs": "^6.10.1"
+  },
+  "deprecated": false,
+  "description": "api ephoto textpro dan photooxy",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": [
+    "mintake",
+    "shut"
+  ],
+  "license": "ISC",
+  "main": "src/index.js",
+  "name": "mintake",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
