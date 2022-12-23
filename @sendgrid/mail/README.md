@@ -6,7 +6,6 @@
 # Mail Service for the SendGrid v3 Web API
 This is a dedicated service for interaction with the mail endpoint of the [SendGrid v3 API](https://sendgrid.com/docs/api-reference/).
 
-# Installation
 
 ## Prerequisites
 - Node.js version 6, 8 or >=10
