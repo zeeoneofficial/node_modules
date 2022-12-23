@@ -89,7 +89,7 @@ wanted to stop.  =D
 
 ## USAGE
 
-### require('@iarna/cli')(entryPointFunction) → yargs
+### require('@iarna/cli')
 
 The module itself exports a function that you need to call with the name of
 your main function.  Your main function is like `main` in C, it's the entry
